@@ -10,6 +10,11 @@
     background-image: url(images/emerald-bg.jpeg);
 }
 
+#rubies{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(images/rubies-bg.jfif);
+}
+
 #content{
     background-color: rgba(255, 255, 255, 0.7);
     width: 70% ;
