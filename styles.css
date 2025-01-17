@@ -29,6 +29,7 @@
     box-shadow: 10px 10px rgba(5,5,5,0.7);
 } 
 
+
 /*images*/
 
 #gold-coin{
@@ -41,6 +42,22 @@ li{
     font-size: 20px;
     font-weight: 600;
 }
+
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  #nav-i {
+    float: left;
+  }
+  
+    #nav-l {
+        display: block;
+        padding: 8px;
+        background-color: #dddddd;
+    }
 
 /*typography*/
 
