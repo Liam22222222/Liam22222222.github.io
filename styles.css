@@ -44,8 +44,20 @@ li{
 
 /*typography*/
 
-h1{
+#hG{
     color:#735229;
+}
+
+#hR{
+    color:#80000A;
+}
+
+#hE{
+    color:#00570A;
+}
+
+#hD{
+    color:#00575F;
 }
 
 /*tables*/
