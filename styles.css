@@ -4,7 +4,7 @@ body {
 
 
 
-style #0  {
+style #header {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -12,16 +12,16 @@ style #0  {
     background-color: #29eb22;
 }
   
-  style #1 {
+  style #headi {
     float: left;
   }
   
-  style #1 a {
+  style #headi a {
     display: block;
     padding: 8px;
     background-color: #29eb22;
   }
 
-  style #1 a:hover {
+  style #headi a:hover {
     background-color: #3db125;
   }
