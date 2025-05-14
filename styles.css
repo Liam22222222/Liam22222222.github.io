@@ -2,7 +2,7 @@ body {
     background-color: lightgreen;
 }
 
-ul #header {
+#header {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -10,16 +10,16 @@ ul #header {
     background-color: #29eb22;
 }
   
-li #headi {
+#headi {
     float: left;
   }
   
-li #headi a {
+#headi a {
     display: block;
     padding: 8px;
     background-color: #29eb22;
   }
 
-li #headi a:hover {
+#headi a:hover {
     background-color: #3db125;
   }
