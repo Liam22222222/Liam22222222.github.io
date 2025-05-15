@@ -16,7 +16,7 @@ body {
 
 .navi a {
   display: block;
-  color: rgb(75, 211, 21);
+  color: rgb(0, 0, 0);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -25,3 +25,4 @@ body {
 .navi a:hover {
   background-color: #48aa2a;
 }
+
