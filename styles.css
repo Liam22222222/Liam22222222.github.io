@@ -15,6 +15,10 @@ body {
   float: left;
 }
 
+.navis {
+  float: left;
+}
+
 .back {
   float: right;
 }
@@ -57,4 +61,16 @@ body {
 
 .back a:hover {
   background-color: #48aa2a;
+}
+
+.navis a {
+  display: block;
+  color: rgb(255, 254, 254);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: black;
+}
+
+.navis a:hover {
+  background-color: #0e2b05;
 }
