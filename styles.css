@@ -15,11 +15,15 @@ body {
   float: left;
 }
 
-.next,.back {
+.next {
   float: right;
 }
 
-.navi,.next,.back a {
+.back {
+  float: right;
+}
+
+.navi a {
   display: block;
   color: rgb(0, 0, 0);
   text-align: center;
@@ -27,7 +31,30 @@ body {
   text-decoration: black;
 }
 
-.navi,.next,.back a:hover {
+.navi a:hover {
   background-color: #48aa2a;
 }
 
+.next a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: black;
+}
+
+.next a:hover {
+  background-color: #48aa2a;
+}
+
+.back a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: black;
+}
+
+.back a:hover {
+  background-color: #48aa2a;
+}
