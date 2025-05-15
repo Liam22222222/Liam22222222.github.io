@@ -2,7 +2,7 @@ body {
     background-color: lightgreen;
 }
 
-ul {
+.nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -10,11 +10,11 @@ ul {
   background-color: #2fbe1c;
 }
 
-li {
+.navi {
   float: left;
 }
 
-li a {
+.navi a {
   display: block;
   color: rgb(75, 211, 21);
   text-align: center;
@@ -22,6 +22,6 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+.navi a:hover {
   background-color: #48aa2a;
 }
