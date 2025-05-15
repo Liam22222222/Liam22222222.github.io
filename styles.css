@@ -15,7 +15,11 @@ body {
   float: left;
 }
 
-.navi a {
+.next,.back {
+  float: right;
+}
+
+.navi,.next,.back a {
   display: block;
   color: rgb(0, 0, 0);
   text-align: center;
@@ -23,7 +27,7 @@ body {
   text-decoration: black;
 }
 
-.navi a:hover {
+.navi,.next,.back a:hover {
   background-color: #48aa2a;
 }
 
