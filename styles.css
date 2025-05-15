@@ -3,24 +3,25 @@ body {
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: .29eb22;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2fbe1c;
 }
-  
+
 li {
-    display: inline;
-  }
-  
+  float: left;
+}
+
 li a {
-    display: block;
-    padding: 8px;
-    background-color: .29eb22;
-    text-align: center;
-  }
+  display: block;
+  color: rgb(75, 211, 21);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
 li a:hover {
-    background-color: .3db125;
-  }
+  background-color: #48aa2a;
+}
