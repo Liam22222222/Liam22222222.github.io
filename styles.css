@@ -2,7 +2,7 @@ body {
     background-color: lightgreen;
 }
 
-.header {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -10,16 +10,16 @@ body {
     background-color: .29eb22;
 }
   
-.headi {
+li {
     float: left;
   }
   
-.headi a {
+li a {
     display: block;
     padding: 8px;
     background-color: .29eb22;
   }
 
-.headi a:hover {
+li a:hover {
     background-color: .3db125;
   }
