@@ -83,5 +83,5 @@ body {
 
 table, th, td {
   border: 1px solid black;
-  gap: 500px;
+  align-self: 500px;
 }
