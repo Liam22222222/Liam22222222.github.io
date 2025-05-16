@@ -83,5 +83,8 @@ body {
 
 table, th, td {
   border: 1px solid black;
-  align-self: 500px;
+}
+
+table {
+  text-align: center;
 }
