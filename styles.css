@@ -10,7 +10,7 @@ div {
   margin: auto;
 }
 
-img h2 {
+img, h2 {
   align-self: right;
 }
 
