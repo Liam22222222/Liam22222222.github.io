@@ -4,7 +4,7 @@ body {
     align-content: center;
 }
 
-p {
+div {
   width: 400px;
   text-wrap: break-word;
 }
