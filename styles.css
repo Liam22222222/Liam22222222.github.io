@@ -10,12 +10,12 @@ div {
   text-align: center;
 }
 
-#hover {
+div#hover {
   background-color: #0e2b05;
   padding: 20px;
   display: none;
 }
-span:hover + #hover {
+span:hover + div#hover {
   display: block;
 }
 
