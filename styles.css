@@ -7,7 +7,7 @@ body {
 div {
   width: 400px;
   text-wrap: break-word;
-  position: absolute, top=50%, left=50%;
+  margin: auto;
 }
 
 div#hover {
