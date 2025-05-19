@@ -5,7 +5,8 @@ body {
 }
 
 p {
-  text-wrap: initial;
+  width: 400px;
+  text-wrap: break-word;
 }
 
 .nav {
