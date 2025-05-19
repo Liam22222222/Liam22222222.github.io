@@ -11,7 +11,7 @@ div {
 }
 
 img h2 {
-  margin-right: auto;
+  align-self: right;
 }
 
 div#hover {
