@@ -7,7 +7,7 @@ body {
 div {
   width: 400px;
   text-wrap: break-word;
-  text-align: center;
+  position: absolute;
 }
 
 div#hover {
