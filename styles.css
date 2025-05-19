@@ -11,7 +11,7 @@ div {
 }
 
 img, h2 {
-  align-self: right;
+  position: absolute;
 }
 
 div#hover {
