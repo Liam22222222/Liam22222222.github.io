@@ -2,6 +2,7 @@ body {
     background-color: lightgreen;
     text-align: center;
     align-content: center;
+    text-wrap: 50px;
 }
 
 .nav {
