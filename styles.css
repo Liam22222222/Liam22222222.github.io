@@ -2,7 +2,10 @@ body {
     background-color: lightgreen;
     text-align: center;
     align-content: center;
-    text-wrap: 50px;
+}
+
+p {
+  text-indent: 30%;
 }
 
 .nav {
