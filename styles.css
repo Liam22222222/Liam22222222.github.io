@@ -10,6 +10,15 @@ div {
   text-align: center;
 }
 
+#hover {
+  background-color: #0e2b05;
+  padding: 20px;
+  display: none;
+}
+span:hover + #hover {
+  display: block;
+}
+
 .nav {
   list-style-type: none;
   text-wrap: none;
