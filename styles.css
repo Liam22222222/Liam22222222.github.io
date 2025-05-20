@@ -16,6 +16,7 @@ div#hover {
   background-color: #b6f8a3;
   padding: 20px;
   display: none;
+  font-size: large;
 }
 
 span:hover + div#hover {
