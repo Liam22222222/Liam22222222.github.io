@@ -14,8 +14,7 @@ div {
   width: 400px;
   text-wrap: break-word;
   margin: auto;
-  border-radius: 30%;
-  box-shadow: #b5f8a35d;
+  border-radius: 3%;
 }
 
 div#hover {
@@ -24,7 +23,7 @@ div#hover {
   align-self: right;
   display: none;
   font-size: large;
-  border-radius: 30%;
+  border-radius: 3%;
 }
 
 span:hover + div#hover {
@@ -38,7 +37,7 @@ span:hover + div#hover {
   padding: 0;
   overflow: hidden;
   background-color: #2fbe1c;
-  border-radius: 30%;
+  border-radius: 3%;
 }
 
 .navi {
