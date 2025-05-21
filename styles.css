@@ -10,12 +10,12 @@ body {
 }
 
 div {
-  background-color: lightgreen;
+  background-color: rgba(144, 238, 144, 0.815);
   width: 400px;
   text-wrap: break-word;
   margin: auto;
   border-radius: 30%;
-  box-shadow: #b6f8a3;
+  box-shadow: #b5f8a35d;
 }
 
 div#hover {
