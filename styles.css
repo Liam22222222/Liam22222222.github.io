@@ -31,6 +31,10 @@ span:hover + div#hover {
   display: block;
 }
 
+div#hover:hover {
+  display: block;
+}
+
 .nav {
   list-style-type: none;
   text-wrap: none;
