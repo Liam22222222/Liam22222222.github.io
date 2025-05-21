@@ -11,10 +11,10 @@ body {
 
 div {
   background-color: rgba(144, 238, 144, 0.815);
-  width: 400px;
+  width: 600px;
   text-wrap: break-word;
   margin: auto;
-  border-radius: 30%;
+  border-radius: 3%;
 }
 
 div#hover {
