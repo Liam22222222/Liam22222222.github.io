@@ -20,7 +20,7 @@ div {
 
 div#hover {
   background-color: #b6f8a3;
-  padding-bottom: 20px;
+  padding: 20px;
   align-self: right;
   display: none;
   font-size: large;
