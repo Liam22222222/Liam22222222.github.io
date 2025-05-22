@@ -13,14 +13,14 @@ div {
   background-color: rgba(144, 238, 144, 0.815);
   width: 800px;
   text-wrap: break-word;
-  padding-bottom: 5px;
+  padding-bottom: 3px;
   margin: auto;
   border-radius: 3%;
 }
 
 div#hover {
   background-color: #b6f8a3;
-  padding: 20px;
+  padding-bottom: 20px;
   align-self: right;
   display: none;
   font-size: large;
