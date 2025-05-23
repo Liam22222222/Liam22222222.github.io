@@ -27,9 +27,9 @@ div#hover {
 }
 
 div.list {
-  text-align: right;
-  width: 200px;
-  background-color: #cccc;
+  text-align: left;
+  width: 250px;
+  background-color: #cccccc00;
 }
 
 span:hover + div#hover {
