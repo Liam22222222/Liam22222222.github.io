@@ -12,7 +12,6 @@ body {
 div {
   background-color: rgba(144, 238, 144, 0.815);
   width: 800px;
-  padding-bottom: 5px;
   text-wrap: break-word;
   margin: auto;
   border-radius: 25px;
