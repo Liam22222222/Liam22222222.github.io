@@ -9,7 +9,7 @@ body {
     font: Arial;
 }
 
-.list {
+div.list {
   display: inline-block;
   margin-left: 50%;
   transform: translateX(-50%);
