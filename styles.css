@@ -13,6 +13,7 @@ body {
   display: inline-block;
   margin-left: 50%;
   transform: translateX(-50%);
+  background-color: #cccc;
 }
 
 div {
