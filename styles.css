@@ -27,9 +27,8 @@ div#hover {
 }
 
 div.list {
-  display: inline-block;
-  margin-left: 50%;
-  transform: translateX(-50%);
+  text-align: right;
+  width: 200px;
   background-color: #cccc;
 }
 
