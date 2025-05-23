@@ -32,6 +32,13 @@ div.list {
   background-color: #cccccc00;
 }
 
+div.mem {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
 span:hover + div#hover {
   display: block;
 }
