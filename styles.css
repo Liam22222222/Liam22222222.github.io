@@ -10,6 +10,7 @@ body {
 }
 
 .list {
+  list-style-position: inside;
   text-align: center;
 }
 
